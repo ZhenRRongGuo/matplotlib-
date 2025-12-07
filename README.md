@@ -1,5 +1,5 @@
 # matplotlib-
-! 使用matplotlib绘图，让中文显示宋体，英文显示Times New Roman
+! 使用 matplotlib 绘图，让中文显示宋体，英文显示 Times New Roman
 
 # 问题
 ### 加入字体配置
